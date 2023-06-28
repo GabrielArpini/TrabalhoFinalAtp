@@ -1,0 +1,15 @@
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\bin\Debug\net6.0\trabalhoFInal1.exe
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\bin\Debug\net6.0\trabalhoFInal1.deps.json
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\bin\Debug\net6.0\trabalhoFInal1.runtimeconfig.json
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\bin\Debug\net6.0\trabalhoFInal1.dll
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\bin\Debug\net6.0\trabalhoFInal1.pdb
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\obj\Debug\net6.0\trabalhoFInal1.csproj.AssemblyReference.cache
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\obj\Debug\net6.0\trabalhoFInal1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\obj\Debug\net6.0\trabalhoFInal1.AssemblyInfoInputs.cache
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\obj\Debug\net6.0\trabalhoFInal1.AssemblyInfo.cs
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\obj\Debug\net6.0\trabalhoFInal1.csproj.CoreCompileInputs.cache
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\obj\Debug\net6.0\trabalhoFInal1.dll
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\obj\Debug\net6.0\refint\trabalhoFInal1.dll
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\obj\Debug\net6.0\trabalhoFInal1.pdb
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\obj\Debug\net6.0\trabalhoFInal1.genruntimeconfig.cache
+C:\Users\arroz\source\repos\TrabalhoTrio\trabalhoFInal1\trabalhoFInal1\obj\Debug\net6.0\ref\trabalhoFInal1.dll
